@@ -14,16 +14,23 @@ Anyone can access the AI coach directly from the browser.
 
 ---
 
-# 📸 Preview
+## 📸 Preview
 
 AI Fitness Coach interface with:
 
-• Chat-based fitness assistant
-• Personalized workout suggestions
-• Nutrition guidance
-• Structured AI responses
+- Chat-based fitness assistant
+- Personalized workout suggestions
+- Nutrition guidance
+- Structured AI responses
 
-*(Add screenshots here later if you want)*
+### 👤 Fitness Profile Setup
+![Profile UI](screenshots/profile.png)
+
+### 💬 Chat Interface
+![Chat UI](screenshots/chat.png)
+
+### 💪 Workout Plan Generation
+![Workout Plan](screenshots/workout.png)
 
 ---
 
